@@ -15,3 +15,5 @@ t2m_era5_celsius_pcont (NetCDF)
 portugal (Shapefile)
 03-06-2019_netcdf_coords_to_extract (Excel file with coordinates as i.e. for R)
 03-06-2019_netcdf_coords_to_extract_clean (Excel file with coordinates as i.e. for QGIS)
+
+For more information: https://climate.copernicus.eu/climate-data-store
